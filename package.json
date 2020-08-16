@@ -1,6 +1,6 @@
 {
-    "name": "com.baba-s.uni-string-parse-ext",
-    "displayName": "UniStringParseExt",
+    "name": "com.baba-s.uni-string-parse-extensions-methods",
+    "displayName": "UniStringParseExtensionMethods",
     "version": "1.0.0",
     "unity": "2019.2",
     "author": "baba-s",
