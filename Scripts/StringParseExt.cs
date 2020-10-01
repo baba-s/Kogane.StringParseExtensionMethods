@@ -725,7 +725,7 @@ namespace Kogane
 		/// <summary>
 		/// 指定された列挙型に変換可能かどうかを返します
 		/// </summary>
-		public static bool IsEnum<T>( string value ) where T : struct
+		public static bool IsEnum<T>( this string value ) where T : struct
 		{
 			return Enum.TryParse( value, out T _ );
 		}
