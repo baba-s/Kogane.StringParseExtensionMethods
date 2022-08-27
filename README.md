@@ -1,4 +1,4 @@
-# UniStringParseExtensionMethods
+# Kogane String Parse Extension Methods
 
 文字列を他の型に変換する拡張メソッド
 
